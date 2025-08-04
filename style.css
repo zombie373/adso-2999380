@@ -1,0 +1,29 @@
+.image-container{
+    text-align: center;
+}
+
+body{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+
+.pagina {
+    width: 700px;
+    height: 70px;
+    border: 2px solid black;
+    text-align: center;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    margin-top: 35px;
+    display: flex;
+}
